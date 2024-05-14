@@ -3,4 +3,69 @@
    uuid = "FBDD0054-012C-4562-8DDF-18CEFF201854"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B469299-E4D5-424C-B29C-FBE710E59FB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SodokuSolver/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4B469299-E4D5-424C-B29C-FBE710E59FB3 - db4e1f02b689b7de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SodokuSolver"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexestrada/repos/SodokuSolver/SodokuSolver/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "4B469299-E4D5-424C-B29C-FBE710E59FB3 - db4e1f02b689b7de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SodokuSolver"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexestrada/repos/SodokuSolver/SodokuSolver/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "770">
+               </Location>
+               <Location
+                  uuid = "4B469299-E4D5-424C-B29C-FBE710E59FB3 - db4e1f02b689b67d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SodokuSolver"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexestrada/repos/SodokuSolver/SodokuSolver/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "715">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
