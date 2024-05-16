@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B226E9002BEE10F30046AA8E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B226E8FF2BEE10F30046AA8E /* main.cpp */; };
+		B226E90E2BF5E8D70046AA8E /* Sodoku.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B226E90C2BF5E8D70046AA8E /* Sodoku.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		B226E8FC2BEE10F30046AA8E /* SodokuSolver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SodokuSolver; sourceTree = BUILT_PRODUCTS_DIR; };
 		B226E8FF2BEE10F30046AA8E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B226E90C2BF5E8D70046AA8E /* Sodoku.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sodoku.cpp; sourceTree = "<group>"; };
+		B226E90D2BF5E8D70046AA8E /* Sodoku.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Sodoku.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				B226E8FF2BEE10F30046AA8E /* main.cpp */,
+				B226E90C2BF5E8D70046AA8E /* Sodoku.cpp */,
+				B226E90D2BF5E8D70046AA8E /* Sodoku.hpp */,
 			);
 			path = SodokuSolver;
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B226E90E2BF5E8D70046AA8E /* Sodoku.cpp in Sources */,
 				B226E9002BEE10F30046AA8E /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
